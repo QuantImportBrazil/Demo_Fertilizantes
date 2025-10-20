@@ -20,7 +20,7 @@ Estimadas por **Município** e **Produto (NCM)**.
 
 ### Gráficos Demonstrativos
 
-Para esse demosntração, apresentamos previsões de importação para dois Municípios de alta relevância no cenário nacional, incluindo para cada um deles, os dois mais importados Fertilizantes (NCM), respectivamente.
+Para esse demosntração, apresentamos previsões de importação para dois Municípios de alta relevância no cenário nacional, incluindo, para cada um deles, os dois mais importados Fertilizantes (NCM), respectivamente.
 
 [Paranaguá-PR](https://quantimportbrazil.github.io/Paranagua-PR/)  
 
