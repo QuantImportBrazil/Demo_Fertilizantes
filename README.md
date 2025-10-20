@@ -1,4 +1,4 @@
-# <img src="logo3.png" alt="Logo QuantImport" width="70"> [QuantImport](https://quantimportbrazil.github.io/Sobre/)
+# <img src="logo.png" alt="Logo QuantImport" width="70"> [QuantImport](https://quantimportbrazil.github.io/Sobre/)
 
 ---
 
@@ -8,20 +8,21 @@
 
 ### Contexto: Brasil, o Maior Importador
 
-<a href="https://www.statista.com/statistics/1278061/import-value-fertilizers-worldwide-by-country/" rel="nofollow"><img src="https://www.statista.com/graphic/1/1278061/import-value-fertilizers-worldwide-by-country.jpg" alt="Estatística: Principais países importadores de fertilizantes no mundo em 2023, com base no valor (em bilhões de dólares americanos) | Statista" style="width: 70%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Encontre mais estatísticas em <a href="https://www.statista.com" rel="nofollow">Statista</a>
+<a href="https://www.statista.com/statistics/1278061/import-value-fertilizers-worldwide-by-country/" rel="nofollow"><img src="https://www.statista.com/graphic/1/1278061/import-value-fertilizers-worldwide-by-country.jpg" alt="Estatística: Principais países importadores de fertilizantes no mundo em 2023, com base no valor (em bilhões de dólares americanos) | Statista" style="width: 70%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Mais estatísticas disponíveis em <a href="https://www.statista.com" rel="nofollow">Statista</a>.
 
 ---
 
 ## Previsão de Importação
 
-Estimadas por **Município** e **Produto (NCM)**.
+Projeções elaboradas por **Município** e por **Produto (NCM)**, com base em séries históricas e modelos de aprendizado de máquina.
 
 ---
 
 ### Gráficos Demonstrativos
 
-Para esse demosntração, apresentamos previsões de importação para dois Municípios de alta relevância no cenário nacional, incluindo, para cada um deles, os dois mais importados Fertilizantes (NCM), respectivamente.
+Nesta demonstração, são apresentadas previsões de importação para dois municípios de elevada relevância no contexto nacional.  
+Para cada um deles, são destacados os dois fertilizantes mais importados (classificados por NCM).
 
 [Paranaguá-PR](https://quantimportbrazil.github.io/Paranagua-PR/)  
 
-[Rondonopólis-MT](https://quantimportbrazil.github.io/Rondonopolis-MT/)
+[Rondonópolis-MT](https://quantimportbrazil.github.io/Rondonopolis-MT/)
