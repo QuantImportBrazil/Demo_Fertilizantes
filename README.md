@@ -22,9 +22,12 @@ Projeções elaboradas por **Município** e por **Produto (NCM)**, com base em s
 
 ### Gráficos Demonstrativos
 
-Nesta demonstração, são apresentadas previsões de importação para dois municípios de elevada relevância no contexto nacional.  
-Para cada um deles, são destacados os dois fertilizantes mais importados (classificados por NCM).
+Nesta demonstração atualizada, são apresentadas:  
+* Previsões de importação para dois municípios de elevada relevância no contexto nacional, destacando neles os dois fertilizantes mais importados (classificados por NCM).
+* Identificação do fator mais importante que afetou a previsão mais diferenciada em relação ao ano anterior.
 
 [Paranaguá-PR](https://quantimportbrazil.github.io/Paranagua-PR/)  
 
 [Rondonópolis-MT](https://quantimportbrazil.github.io/Rondonopolis-MT/)
+
+[Fator mais Importante](https://quantimportbrazil.github.io/Fator_mais_importante)
