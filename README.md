@@ -6,7 +6,7 @@
 
 ### Contexto: Brasil, o Maior Importador
 
-Fonte e figura: Statista (2023): https://www.statista.com/statistics/1278061/import-value-fertilizers-worldwide-by-country/
+Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/import-value-fertilizers-worldwide-by-country/)
 
 ---
 
@@ -17,9 +17,9 @@ Projeções elaboradas por município e por produto (NCM), com base em séries h
 ---
 
 ### Exemplos e Páginas Relacionadas
-- Paranaguá - PR: https://quantimportbrazil.github.io/Paranagua-PR/
-- Rondonópolis - MT: https://quantimportbrazil.github.io/Rondonopolis-MT/
-- Fator mais Importante (análise de importância de variáveis): https://quantimportbrazil.github.io/Fator_mais_importante
+- [Paranaguá - PR](https://quantimportbrazil.github.io/Demo_Paranagua-PR/)
+- [Rondonópolis - MT](https://quantimportbrazil.github.io/Demo_Rondonopolis-MT/)
+- [Fator mais Importante (análise de importância de variáveis)](https://quantimportbrazil.github.io/Demo_Fator_mais_importante)
 
 ---
 
