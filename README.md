@@ -6,9 +6,7 @@
 
 ### Contexto: Brasil, o Maior Importador
 
-> Figura – Valor das importações mundiais de fertilizantes por país (Import value of fertilizers worldwide by country)  
-> Fonte: Statista (2023)  
-> (imagem embutida na versão web)
+Fonte e figura: Statista (2023): https://www.statista.com/statistics/1278061/import-value-fertilizers-worldwide-by-country/
 
 ---
 
