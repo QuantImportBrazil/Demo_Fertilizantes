@@ -32,4 +32,4 @@ Projeções elaboradas por município e por produto (NCM), com base em séries h
 ## Contato
 **André Coutinho Bueno**  
 Cientista de Dados e Fundador  
-andre.bueno@quantimport.com.br
+[andre.bueno@quantimport.com.br](mailto:andre.bueno@quantimport.com.br)
