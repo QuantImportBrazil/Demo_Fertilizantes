@@ -12,7 +12,7 @@ Fonte e figura: Statista (2023): https://www.statista.com/statistics/1278061/imp
 
 ## Previsão de Importação
 
-Projeções elaboradas por município e por produto (NCM), com base em séries históricas e modelos de aprendizado de máquina. As projeções buscam oferecer suporte à análise de demanda e logística de importação.
+Projeções elaboradas por município e por produto (NCM), com base em séries históricas e modelos de aprendizado de máquina. As projeções buscam oferecer suporte à análise de oferta e logística de importação.
 
 ---
 
