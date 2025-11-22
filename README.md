@@ -2,7 +2,7 @@
 
 ---
 
-## Fertilizantes — Projeções de Importação
+## Fertilizantes — Previsões de Importação
 
 ### Contexto: Brasil, o Maior Importador
 
@@ -14,11 +14,19 @@ Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/im
 
 ## Previsão de Importação
 
-Projeções elaboradas por município e por produto (NCM), com base em séries históricas e modelos de aprendizado de máquina. As projeções buscam oferecer suporte à análise de oferta e logística de importação.
+Elaboradas por município e por SH4* de fertilizantes minerais ou químicos :  
+
+> 3102	Nitrogenados
+> 3103	Fosfatados  
+> 3104	Potássicos  
+> 3105	Contendo dois ou três dos seguintes elementos fertilizantes: N, P e/ou K.**
+* O Sistema Harmonizado (SH) é uma nomenclatura internacional padronizada usada para classificar mercadorias no comércio exterior -  Organização Mundial das Alfândegas (OMA).  
+** ou ainda; outros adubos (fertilizantes).  
+
 
 ---
 
-### Exemplos de Previsão e Páginas Relacionadas
+### Exemplos e Páginas Relacionadas
 
 - [Candeias - BA](https://quantimportbrazil.github.io/Demo_Candeias-BA/)
 - [Canoas - RS](https://quantimportbrazil.github.io/Demo_Canoas-RS/)
