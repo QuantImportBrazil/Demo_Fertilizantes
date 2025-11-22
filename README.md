@@ -16,7 +16,7 @@ Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/im
 
 Elaboradas por município e por SH4* de fertilizantes minerais ou químicos :  
 
-> ***SH4 - Descrição  
+> ***SH4 - Descrição***  
 > 3102 - Nitrogenados  
 > 3103 - Fosfatados  
 > 3104 - Potássicos  
