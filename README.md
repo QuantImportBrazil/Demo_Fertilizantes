@@ -16,14 +16,14 @@ Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/im
 
 Elaboradas por município e por SH4* de fertilizantes minerais ou químicos :  
 
-> ***SH4 - Descrição***  
-> 3102 - Nitrogenados  
-> 3103 - Fosfatados  
-> 3104 - Potássicos  
-> 3105 - Contendo dois ou três dos seguintes elementos fertilizantes: N, P e/ou K.**  
+***SH4 - Descrição***  
+3102 - Nitrogenados  
+3103 - Fosfatados  
+3104 - Potássicos  
+3105 - Contendo dois ou três dos seguintes elementos fertilizantes: N, P e/ou K.**  
 
-\* O Sistema Harmonizado (SH) é uma nomenclatura internacional padronizada usada para classificar mercadorias no comércio exterior -  Organização Mundial das Alfândegas (OMA).<br>
-\*\* ou ainda; outros adubos (fertilizantes).
+>\* O Sistema Harmonizado (SH) é uma nomenclatura internacional padronizada usada para classificar mercadorias no comércio exterior -  Organização Mundial das Alfândegas (OMA).<br>
+>\*\* ou ainda; outros adubos (fertilizantes).
 
 ---
 
