@@ -18,10 +18,19 @@ Projeções elaboradas por município e por produto (NCM), com base em séries h
 
 ---
 
-### Exemplos e Páginas Relacionadas
+### Exemplos de Previsão e Páginas Relacionadas
+
+- [Candeias - BA](https://quantimportbrazil.github.io/Demo_Candeias-BA/)
+- [Canoas - RS](https://quantimportbrazil.github.io/Demo_Canoas-RS/)
+- [Catalão - GO](https://quantimportbrazil.github.io/Demo_Catalao-GO/)
+- [Conceição do Jacuípe - BA](https://quantimportbrazil.github.io/Demo_Conceicao-do-Jacuipe-BA/)
+- [Jundiaí - SP](https://quantimportbrazil.github.io/Demo_Jundiai-SP/)
 - [Paranaguá - PR](https://quantimportbrazil.github.io/Demo_Paranagua-PR/)
+- [Pouso Alegre - MG](https://quantimportbrazil.github.io/Demo_Pouso-Alegre-MG/)
+- [Rio Grande - RS](https://quantimportbrazil.github.io/Demo_Rio-Grande-RS/)
 - [Rondonópolis - MT](https://quantimportbrazil.github.io/Demo_Rondonopolis-MT/)
-- [Fator mais Importante (análise de importância de variáveis)](https://quantimportbrazil.github.io/Demo_Fator_mais_importante)
+- [Uberaba - MG](https://quantimportbrazil.github.io/Demo_Uberaba-MG/)
+- [Fator mais Importante](https://quantimportbrazil.github.io/Demo_Fator_mais_importante)
 
 ---
 
