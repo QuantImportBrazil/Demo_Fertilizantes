@@ -25,7 +25,7 @@ Elaboradas por município e por SH4* de fertilizantes minerais ou químicos :
 
 ---
 
-### Exemplos e Páginas Relacionadas
+### Exemplos Demonstrativos  
 
 - [Candeias - BA](https://quantimportbrazil.github.io/Demo_Candeias-BA/)
 - [Canoas - RS](https://quantimportbrazil.github.io/Demo_Canoas-RS/)
