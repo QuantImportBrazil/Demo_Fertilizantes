@@ -2,7 +2,7 @@
 
 ---
 
-## Fertilizantes — Previsões de Importação
+## Fertilizantes — Projeções de Importação
 
 ### Contexto: Brasil, o Maior Importador
 
@@ -11,8 +11,6 @@ Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/im
 ---
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)**  
-
-## Previsão de Importação
 
 Elaboradas por município e por SH4* de fertilizantes minerais ou químicos :  
 
