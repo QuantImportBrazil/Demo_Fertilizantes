@@ -40,11 +40,7 @@ Elaboradas por município e por SH4* de fertilizantes minerais ou químicos :
 ### Exemplo em Destaque:
 - [Importância dos Fatores](https://quantimportbrazil.github.io/Demo_fertilizantes_Importancia_dos_Fatores)
 
----
 
-## Observações
-- Esta página apresenta exemplos ilustrativos das projeções; não substitui relatórios formais.  
-- Para reproduzir as análises ou solicitar dados específicos, entre em contato.
 
 ---
 
